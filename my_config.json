@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": 
+        1024,
+        2000
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/diegoaichele/jj/master/feature_simple2%20(1).tsv",
+      "metadataPath": "https://raw.githubusercontent.com/diegoaichele/jj/master/label2%20(1).tsv"
+    }
+  ]
+}
